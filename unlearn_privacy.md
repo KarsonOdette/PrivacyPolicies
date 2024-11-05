@@ -6,35 +6,35 @@ Unlearn is created, developed, maintained, and owned by Karson Odette. This poli
 Unlearn respects your privacy and provides its users with options on what data is shared. If a user has not opted into one of these, their data will not be shared, except when required by law or a court order. Users may consent to the following Data Sharing situations:
 
 #### Personalized Ads
-**What data is shared?**
-We want to collect, share, and store your advertiser id.
-**Why share this data?**
-We want to use this data to serve you with ads that are personalized to you.
-**Who is this data shared with?**
+**What data is shared?**\
+We want to collect, share, and store your advertiser id.\
+**Why share this data?**\
+We want to use this data to serve you with ads that are personalized to you.\
+**Who is this data shared with?**\
 This data will be shared with AdMob (Google) and its advertisers.
 
 #### Share Userdata for Advertising Purposes
-**What data is shared?**
-We want to collect, share, and store your userdata.
-**Why share this data?**
-We want to use this data to build your advertising profile, which will allow for ads that are more personalized to you.
-**Who is this data shared with?**
+**What data is shared?**\
+We want to collect, share, and store your userdata.\
+**Why share this data?**\
+We want to use this data to build your advertising profile, which will allow for ads that are more personalized to you.\
+**Who is this data shared with?**\
 This data will be shared with AdMob (Google) and its advertisers.
 
 #### Share App Usage
-**What data is shared?**
-We want to collect, share, and store usage data obtained through the use of this app, such as, but not limited to: what screens you viewed, how long you used the app, what interactions you made with the app, and your advertiser id. Advertiser id is the only personal data shared.
-**Why share this data?**
-We want to use this data for analytics purposes.
-**Who is this data shared with?**
+**What data is shared?**\
+We want to collect, share, and store usage data obtained through the use of this app, such as, but not limited to: what screens you viewed, how long you used the app, what interactions you made with the app, and your advertiser id. Advertiser id is the only personal data shared.\
+**Why share this data?**\
+We want to use this data for analytics purposes.\
+**Who is this data shared with?**\
 This data will be shared with Firebase Analytics (Google).
 
 #### Share Crash Reports
-**What data is shared?**
-We want to collect, share, and store crash reports and other diagnostic data.
-**Why share this data?**
-We want to use this data for quality assurance and diagnostic purposes.
-**Who is this data shared with?**
+**What data is shared?**\
+We want to collect, share, and store crash reports and other diagnostic data.\
+**Why share this data?**\
+We want to use this data for quality assurance and diagnostic purposes.\
+**Who is this data shared with?**\
 This data will be shared with Firebase Crashlytics (Google).
 
 Links to privacy policies of third party service providers used by the Unlearn
