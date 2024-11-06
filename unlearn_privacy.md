@@ -2,6 +2,16 @@
 
 Unlearn is created, developed, maintained, and owned by Karson Odette. This policy is used to inform users of Unlearn and perspective users of Unlearn's policies pertaining to the collection, use, and disclosure of Personal Information. If you choose to use Unlearn, then you agree to the collection and use of information in relation to this policy. Unlearn will not use or share your information with anyone except as described in this Privacy Policy.
 
+## Required Data Sharing
+
+#### Consent Record
+**What data is shared?**\
+We must collect, share, and store your advertiser id, a log of what privacy consents you consent and do not consent to. This log will contain a timestamp of when you consented, or rejected consent, where/how this consent was accepted/rejected, and the version code for the current version of the app that you are using.\
+**Why must you share this data?**\
+It is required by the GDPR to do so for all users that are EU citizens, however we do not make a distinction of who is or is not an EU citizen to keep things simple.\
+**Who is this data shared with?**\
+This data will be shared with Firebase Firestore (Google).
+
 ## Consensual Data Sharing
 Unlearn respects your privacy and provides its users with options on what data is shared. If a user has not opted into one of these, their data will not be shared, except when required by law or a court order. Users may consent to the following Data Sharing situations:
 
