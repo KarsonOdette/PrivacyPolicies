@@ -1,5 +1,5 @@
 # **Turf War - Terms of Service**  
-_Last Updated: 2024-02-11_  
+_Last Updated: 2025-02-11_  
 
 Welcome to **Turf War!** By accessing or using our game, you agree to these **Terms of Service** ("Terms"). If you do not agree, please do not use Turf War and uninstall the app.  
 
