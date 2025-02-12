@@ -1,5 +1,5 @@
 # Turf War Privacy Policy
-
+_Last Updated: 2025-02-11_  
 Turf War is created, developed, maintained, and owned by Karson Odette. This policy is used to inform users of Turf War and perspective users of Turf War's policies pertaining to the collection, use, and disclosure of Personal Information. If you choose to use Turf War, then you agree to the collection and use of information in relation to this policy. Turf War will not use or share your information with anyone except as described in this Privacy Policy.
 
 Links to privacy policies of third party service providers used by Turf War
@@ -18,7 +18,7 @@ Turf War may contain links to other sites. If you click on a third-party link, y
 Turf War uses Google Play Games services. Turf Wars gets a user id, user display name, and profile picture from these services. Your display name and profile picture may be shared with other users in the same lobby/game as you for functionality purposes. Your user id may be collected for analytics purposes if consent is granted. 
 
 ## Location
-Turf War is a game played using your real world location, provided by your device's GPS. Your location will be shared with other users in the same lobby/game as you. Your location will be shared with Google via Firebase for game funcationality purposes. Your location may be shared with Google via Firebase Analytics for analytics purposes is consent is granted. 
+Turf War is a game played using your real world location, provided by your device's GPS. Your location will be shared with other users in the same lobby/game as you. Your location will be shared with Google via Firebase for game funcationality purposes. Your location may be shared with Google via Firebase Analytics for analytics purposes is consent is granted. Location is only shared while the app is open. 
 
 ## Analytics
 Turf War collects and shares analytics, metrics, app interactions, user location, and user ids with Google via Firebase if consent to do so was granted. 
