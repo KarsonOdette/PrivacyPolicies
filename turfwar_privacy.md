@@ -2,7 +2,7 @@
 
 Turf War is created, developed, maintained, and owned by Karson Odette. This policy is used to inform users of Turf War and perspective users of Turf War's policies pertaining to the collection, use, and disclosure of Personal Information. If you choose to use Turf War, then you agree to the collection and use of information in relation to this policy. Turf War will not use or share your information with anyone except as described in this Privacy Policy.
 
-Links to privacy policies of third party service providers used by the Turf War
+Links to privacy policies of third party service providers used by Turf War
 * [Google](https://www.google.com/policies/privacy/)
 
 ## User Consent
