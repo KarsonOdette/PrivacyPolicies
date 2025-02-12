@@ -15,7 +15,7 @@ Turf War values your trust in providing us your Personal Information, thus we ar
 Turf War may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by Turf War. Therefore, I strongly advise you to review the Privacy Policy of these websites. Turf War has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Google Play Games
-Turf War uses Google Play Games services. Turf Wars gets a user id, user display name, and profile picture from these services. Your display name and profile picture may be shared with other users in the same lobby/game as you. Your user id may be collected for analytics purposes if consent is granted. 
+Turf War uses Google Play Games services. Turf Wars gets a user id, user display name, and profile picture from these services. Your display name and profile picture may be shared with other users in the same lobby/game as you for functionality purposes. Your user id may be collected for analytics purposes if consent is granted. 
 
 ## Location
 Turf War is a game played using your real world location, provided by your device's GPS. Your location will be shared with other users in the same lobby/game as you. Your location will be shared with Google via Firebase for game funcationality purposes. Your location may be shared with Google via Firebase Analytics for analytics purposes is consent is granted. 
