@@ -61,6 +61,6 @@ We may update these Terms from time to time. If we make significant changes, we 
 
 ## **8. Contact Us**  
 📧 **Support Email:** [feedback.karson.kimbrel@gmail.com](mailto:feedback.karson.kimbrel@gmail.com)  
-🌍 **Website:** [https://karsonodette.github.io/]  
+🌍 **Website:** [https://karsonodette.github.io/](https://karsonodette.github.io/)  
 
 Thank you for playing **Turf War!** 🎉 Stay safe and have fun!  
